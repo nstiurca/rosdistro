@@ -11,6 +11,8 @@ release_platforms:
   ubuntu:
   - wily
   - xenial
+  mint:
+  - sarah
 repositories:
   ackermann_msgs:
     doc:
